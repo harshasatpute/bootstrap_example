@@ -1,0 +1,21 @@
+ls
+pwd
+clear
+exit
+touch
+mkdir
+cat
+vim
+git init
+git status
+git commit
+git log
+git remote
+git push
+git branch
+git clone
+cd
+chmod 755
+top
+free -m
+du
